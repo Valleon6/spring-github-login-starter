@@ -1,4 +1,4 @@
-package com.valleon;
+package io.javabrains;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
